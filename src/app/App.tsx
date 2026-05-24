@@ -660,7 +660,7 @@ export default function App() {
 
           {/* Subtitle - Hidden on mobile */}
           <span className="hidden sm:inline text-xs text-slate-500 dark:text-slate-400">
-            NGH · PhilHealth
+            Version 1.0
           </span>
         </div>
 
@@ -835,7 +835,7 @@ export default function App() {
           FOOTER
           ═══════════════════════════════════════════════════════════ */}
       <footer className="text-center py-3 text-xs text-slate-500 dark:text-slate-400 border-t border-slate-200 dark:border-slate-700">
-        Click any row for full details · NGH PhilHealth · May 2026
+        Click any row for full details · CaseRate Checklist · May 2026
       </footer>
 
       {/* ═══════════════════════════════════════════════════════════

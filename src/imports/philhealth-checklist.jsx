@@ -705,7 +705,7 @@ export default function App() {
         )}
       </main>
 
-      <div className="footer">Click any row for full details · NGH PhilHealth · May 2026</div>
+      <div className="footer">Click any row for full details · CaseRate Checklist · May 2026</div>
 
       <DetailModal item={selected} onClose={() => setSelected(null)} dark={dark} />
     </div>
