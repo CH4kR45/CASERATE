@@ -627,7 +627,7 @@ export default function App() {
         </div>
         <span className="nav-title">CaseRate Checklist</span>
         <span className="nav-sep" />
-        <span className="nav-sub">NGH · PhilHealth</span>
+        <span className="nav-sub">Version 1.0</span>
         <span className="nav-spacer" />
         <button className="dark-btn" onClick={() => setDark(d => !d)} aria-label="Toggle dark mode">
           {dark ? "☀" : "☾"}
